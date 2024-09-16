@@ -1,6 +1,6 @@
 # lms_app
 
-A new Flutter project.
+LMS APP
 
 ## Getting Started
 
